@@ -30,7 +30,12 @@ This model synchronizes three disparate datasets into a relational engine:
 ## 🧠 Key Findings
 - **Trigger Correlation:** Displacement in the Gedo region surges exactly **14 days** after local grain prices exceed historical thresholds.
 - **Hotspot Identification:** Belet Hawo was identified as a primary "Red Flag" due to the intersection of high fatality rates and peak food prices.
+---
+## 🏆 Project Impact
+This dashboard transforms raw humanitarian data into **Operational Intelligence**. 
 
+- **Predictive Power:** Identifies high-risk departure points 14 days before border arrival spikes.
+- **Strategic Branding:** Developed under the **Ann Nyakwea: Innovating with Data** framework to bridge the gap between complex analytics and frontline action.
 ---
 
 ## 🛠️ How to View
