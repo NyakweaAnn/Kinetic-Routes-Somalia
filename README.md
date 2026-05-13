@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="my logo.png" width="200" title="Project Logo">
+</p>
+
 # 🌍 Kinetic Routes: Predictive Displacement Monitoring (Somalia)
 
 ### **Executive Summary**
